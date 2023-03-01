@@ -26,10 +26,10 @@
 [![Contributors][contributors-shield]][contributors-url]
 
   <a href="https://github.com/Robetjunior/Ignite_Feed">
-    <img src="./public/Ignite_Feed.png" alt="Logo" width="800" height="400">
+    <img src="./public/Ignite_Feed.png" alt="Logo" width="800" height="500">
   </a>
   <a href="https://github.com/Robetjunior/Ignite_Feed">
-    <img src="./public/Ignite_Feed_Mobile.png" alt="Logo" width="400" height="600">
+    <img src="./public/Ignite_Feed_Mobile.png" alt="Logo" width="350" height="800">
   </a>
 
 <h2 align="center">TODO LIST</h2>
