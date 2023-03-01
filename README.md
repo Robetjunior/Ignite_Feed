@@ -26,10 +26,10 @@
 [![Contributors][contributors-shield]][contributors-url]
 
   <a href="https://github.com/Robetjunior/Ignite_Feed">
-    <img src="./public/Ignite_Feed.png" alt="Logo" width="600" height="400">
+    <img src="./public/Ignite_Feed.png" alt="Logo" width="800" height="400">
   </a>
   <a href="https://github.com/Robetjunior/Ignite_Feed">
-    <img src="./public/Ignite_Feed_Mobile.png" alt="Logo" width="600" height="400">
+    <img src="./public/Ignite_Feed_Mobile.png" alt="Logo" width="400" height="600">
   </a>
 
 <h2 align="center">TODO LIST</h2>
@@ -38,7 +38,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-TODO List, o projeto desenvolvido com a função de uma aplicação baseada feed de post onde o usário poderá publicar o feedback, aplaudi-los e podendo deletar
+TODO List, o projeto desenvolvido com a função de uma aplicação baseada feed de post onde o usário poderá publicar o feedback, aplaudi-los e podendo deletar.
+
+Projeto feito em: HTML, CSS3, Typescript, ReactJS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
